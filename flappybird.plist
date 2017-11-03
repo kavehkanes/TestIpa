@@ -17,25 +17,25 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://www.wangfanwifi.com/wangfanv20/image57.png</string>//安装时桌面显示的 logo 图标
+                    <string>https://github.com/kavehkanes/TestIpa/raw/master/fb.png</string>//安装时桌面显示的 logo 图标
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://www.wangfanwifi.com/wangfanv20/image512.jpg</string>
+                    <string>https://github.com/kavehkanes/TestIpa/raw/master/fb.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ihangmei.wangfanconception</string>
+                <string>com.Company.flappybird</string>
                 <key>bundle-version</key>
-                <string>1.8.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>WangFan</string>
+                <string>Flappybird</string>
             </dict>
         </dict>
     </array>
